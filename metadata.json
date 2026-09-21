@@ -1,0 +1,6 @@
+{
+  "name": "Gestione Associazione RUNTS",
+  "description": "Gestionale per Enti del Terzo Settore iscritti al RUNTS: libro soci, quote associative, tessere stampabili e avvisi di scadenza.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
